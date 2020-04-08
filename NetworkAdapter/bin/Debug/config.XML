@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setIP>
+  <Character IPv4="172.20.50.57" Mask="255.255.255.91" Gateway="" DNS1="1.1" DNS2="" />
+  <Character IPv4="172.20.50.5" Mask="255.255.255.0" Gateway="172.20.50.1" DNS1="114.114.114.114" DNS2="8.8.8.8" />
+</setIP>

@@ -1,0 +1,9 @@
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\bin\Release\netstandard2.0\MyLibrary.deps.json
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\bin\Release\netstandard2.0\MyLibrary.dll
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\bin\Release\netstandard2.0\MyLibrary.pdb
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\obj\Release\netstandard2.0\MyLibrary.csprojAssemblyReference.cache
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\obj\Release\netstandard2.0\MyLibrary.csproj.CoreCompileInputs.cache
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\obj\Release\netstandard2.0\MyLibrary.AssemblyInfoInputs.cache
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\obj\Release\netstandard2.0\MyLibrary.AssemblyInfo.cs
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\obj\Release\netstandard2.0\MyLibrary.dll
+D:\My_Demo\C#\NetworkAdapter\MyLibrary\obj\Release\netstandard2.0\MyLibrary.pdb

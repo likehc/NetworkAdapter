@@ -1,0 +1,13 @@
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\bin\Debug\NetworkAdapter.exe.config
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\bin\Debug\NetworkAdapter.exe
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\bin\Debug\NetworkAdapter.pdb
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\bin\Debug\MyLibrary.dll
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\bin\Debug\MyLibrary.pdb
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\obj\Debug\NetworkAdapter.csprojAssemblyReference.cache
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\obj\Debug\NetworkAdapter.Form1.resources
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\obj\Debug\NetworkAdapter.Properties.Resources.resources
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\obj\Debug\NetworkAdapter.csproj.GenerateResource.cache
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\obj\Debug\NetworkAdapter.csproj.CoreCompileInputs.cache
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\obj\Debug\NetworkAdapter.csproj.CopyComplete
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\obj\Debug\NetworkAdapter.exe
+D:\My_Demo\C#\NetworkAdapter\NetworkAdapter\obj\Debug\NetworkAdapter.pdb
