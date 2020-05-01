@@ -17,7 +17,7 @@ namespace MyLibrary
             //Console.WriteLine();
             List<NetAdapterBase> NetAdapterList = new List<NetAdapterBase>();
             foreach (NetworkInterface adapter in adapters)
-            {
+            {                
                 NetAdapterBase ada = new NetAdapterBase();
                 ada.Description = adapter.Description;
                 ada.Identifier = adapter.Id;

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "B32Q++G2H/Sql+RLKkfeGTuJBxMZJjm7NdiJKHZk1X3anBlfMW4cvTD91IJnUESUgwNV6cWioVeefpjQYCXt5g==",
+  "dgSpecHash": "lGlsTtG86Bo6YC/kygQc5UvfRDomC11N7cQ9Mo2GSUyUxCrxyNx5a+iCeM0F4q9LfKbcAMQOl9l6Ccg/3N1C1g==",
   "success": true,
   "projectFilePath": "D:\\My_Demo\\C#\\NetworkAdapter\\MyLibrary\\MyLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

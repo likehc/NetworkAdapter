@@ -247,7 +247,7 @@
             // 
             this.btn_OpenConn.Location = new System.Drawing.Point(347, 100);
             this.btn_OpenConn.Name = "btn_OpenConn";
-            this.btn_OpenConn.Size = new System.Drawing.Size(119, 32);
+            this.btn_OpenConn.Size = new System.Drawing.Size(137, 32);
             this.btn_OpenConn.TabIndex = 3;
             this.btn_OpenConn.Text = "打开 网络连接";
             this.btn_OpenConn.UseVisualStyleBackColor = true;
@@ -393,7 +393,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(640, 381);
+            this.ClientSize = new System.Drawing.Size(868, 381);
             this.Controls.Add(this.btn_SetFromTxt);
             this.Controls.Add(this.btn_SaveToxml);
             this.Controls.Add(this.button3);

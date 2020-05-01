@@ -225,7 +225,10 @@ namespace NetworkAdapter
             {
                 foreach (var net in NetAdapters)
                 {
-                    
+                    if (net.OperationStatus.ToLower() != "up")  //如果网卡未连接,speed为 -1
+                    {
+                        continue;
+                    }
                     combox_NetAdapters.Items.Add(net.Name);
                 }
                 combox_NetAdapters.SelectedIndex = 0;
@@ -788,9 +791,10 @@ namespace NetworkAdapter
 
             foreach (ManagementObject obj in collections)
             {
+                string s = obj["Name"].ToString();
                 if (obj["Name"].ToString() == "VMware Virtual Ethernet Adapter for VMnet8")
                 {
-                    obj.InvokeMethod("EnableDHCP", null, null);
+                    //obj.InvokeMethod("EnableDHCP", null, null);
 
                     //obj.InvokeMethod("RenewDHCPLease", null, null);
                     //obj.InvokeMethod("Auto", null);
@@ -799,7 +803,7 @@ namespace NetworkAdapter
                     //obj.InvokeMethod("Disable", null);
                     //System.Threading.Thread.Sleep(3000);
                     //obj.InvokeMethod("Enable", null);
-                    return;
+                    //return;
                 }
             }
         }
