@@ -236,6 +236,7 @@ namespace NetworkAdapter
         }
         private void btn_SearchNetAdapters_Click(object sender, EventArgs e)
         {
+
             if (string.IsNullOrEmpty(combox_NetAdapters.Text))
             {
                 GetAdaInfo();
@@ -244,7 +245,8 @@ namespace NetworkAdapter
             {
                 UpdateInfo();
             }
-            
+            initCmb_AdaEdit();
+
         }
 
         public void UpdateInfo()
@@ -603,9 +605,11 @@ namespace NetworkAdapter
         }
         public void initCmb_AdaEdit() 
         {
+            cmb_AdaEdit.Items.Clear();
             adaList = OperateXML.GetXML(@APP_PATH + "\\" + XmlFileName, "");
             if (adaList != null)
             {
+                
                 for (int i = 0; i < adaList.Count; i++)
                 {
                     cmb_AdaEdit.Items.Add(adaList[i].IPv4);
